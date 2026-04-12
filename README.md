@@ -107,12 +107,11 @@ Each profile produced different recommendations based on user preferences.
 ![alt text](image-4.png)
 
 
-### Final Output
+## Final Output
+The system recommends the top 3–5 songs that best match the user's taste.
 
-## The system recommends the top 3–5 songs that best match the user's taste.
 
 ## Getting Started
-
 ### Setup
 
 1. Create a virtual environment (optional but recommended):
